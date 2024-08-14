@@ -47,7 +47,7 @@ function App() {
               How It Works
             </h2>
             <p className="mt-2 text-gray-600">
-              <strong className="font-semibold italic">NetNanny</strong>{" "}
+              <strong className="font-semibold italic">FocusBuddy</strong>{" "}
               monitors your browsing activity and notifies a trusted partner
               whenever you visit a blacklisted site, helping you maintain focus
               and break free from distractions.
@@ -106,7 +106,7 @@ function App() {
             </h2>
             <p className="mt-2 text-gray-600">
               Be the first to try{" "}
-              <strong className="font-semibold italic">NetNanny</strong>. Sign
+              <strong className="font-semibold italic">FocusBuddy</strong>. Sign
               up now to get early access and start your journey towards a
               distraction-free life!
             </p>
